@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:0,tvg-id="E4" tvg-name="E4", E4
 http://izgemma.ddns.net:8000/live/kris/kris/17251.ts
+
+#EXTINF:1,tvg-id="QVC（キューヴィーシー）" tvg-name="QVC（キューヴィーシー）", QVC（キューヴィーシー）
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
