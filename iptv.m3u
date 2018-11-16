@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0,NHK World
+#EXTINF:1 NHK World
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
-#EXTINF:1,QVC（キューヴィーシー）
+#EXTINF:1 QVC（キューヴィーシー）
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
-#EXTINF:2, tvg-id="NTV News24", tvg-logo="https://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png", NTV News24
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png", NTV News24
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 
