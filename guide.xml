@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<site site="tv.so-net.ne.jp" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V1.57 -- Jan van Straaten">
-<channels>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channels>
 <channel site="tv.so-net.ne.jp" xmltv_id="ＮＨＫ総合・東京" site_id="23##101024" update="i">ＮＨＫ総合・東京</channel>
 <channel site="tv.so-net.ne.jp" xmltv_id="ＮＨＫＥテレ１・東京" site_id="23##101032" update="i">ＮＨＫＥテレ１・東京</channel>
 <channel site="tv.so-net.ne.jp" xmltv_id="日テレ" site_id="23##101040" update="i">日テレ</channel>
@@ -40,4 +40,4 @@
 <channel site="tv.so-net.ne.jp" xmltv_id="ディズニー・チャンネル" site_id="bs4##200256" update="i">ディズニー・チャンネル</channel>
 <channel site="tv.so-net.ne.jp" xmltv_id="ディーライフ" site_id="bs4##200258" update="i">ディーライフ</channel>
 </channels>
-</site>
+</tv>
