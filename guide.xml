@@ -1,377 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="E4">
-    <display-name lang="en">E4</display-name>
-    <url>http://www.tvguide.co.uk</url>
-  </channel>
-  <programme start="20181112060000 +0000" stop="20181112063000 +0000" channel="E4">
-    <title lang="en">Hollyoaks</title>
-    <desc lang="en">Drama following the lives and loves of a group of teenagers and young adults in Chester(n)</desc>
-    <category lang="en">Drama</category>
-    <star-rating>
-      <value>4.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112063000 +0000" stop="20181112070000 +0000" channel="E4">
-    <title lang="en">Hollyoaks</title>
-    <desc lang="en">Drama following the lives and loves of a group of teenagers and young adults in Chester(n)</desc>
-    <category lang="en">Drama</category>
-    <star-rating>
-      <value>4.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112070000 +0000" stop="20181112073000 +0000" channel="E4">
-    <title lang="en">Mike &amp; Molly</title>
-    <sub-title lang="en">Peggy Shaves Her Legs</sub-title>
-    <desc lang="en">Mike is unhappy to learn Peggy has arranged to have lunch with Molly, afraid she will use the occasion as an opportunity to tell unflattering stories about his childhood. Starring Billy Gardell and Melissa McCarthy(n)</desc>
-    <credits>
-      <actor>Billy Gardell, Melissa McCarthy</actor>
-    </credits>
-    <episode-num system="onscreen">S1 E19/24</episode-num>
-    <star-rating>
-      <value>6.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112073000 +0000" stop="20181112080000 +0000" channel="E4">
-    <title lang="en">Mike &amp; Molly</title>
-    <sub-title lang="en">Opening Day</sub-title>
-    <desc lang="en">Mike invites Molly to attend the opening day for the Chicago Cubs new season, breaking an old tradition he and Carl have kept for years(n)</desc>
-    <episode-num system="onscreen">S1 E20/24</episode-num>
-    <star-rating>
-      <value>6.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112080000 +0000" stop="20181112083000 +0000" channel="E4">
-    <title lang="en">Baby Daddy</title>
-    <sub-title lang="en">The Emma Dilemma</sub-title>
-    <desc lang="en">Ben discovers his neighbour Kayla is hosting a playgroup for the neighbourhood kids, but is excluding his daughter because Kayla believes Ben to be a horrible father. Meanwhile, Danny asks Riley for help when his relationship with Amy hits a rocky patch. Comedy, starring Jean-Luc Bilodeau(n)</desc>
-    <credits>
-      <actor>Jean-Luc Bilodeau</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S2 E14/16</episode-num>
-    <star-rating>
-      <value>6.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112083000 +0000" stop="20181112090000 +0000" channel="E4">
-    <title lang="en">Baby Daddy</title>
-    <sub-title lang="en">Surprise!</sub-title>
-    <desc lang="en">Ben learns that is it all his fault that Riley does not like celebrating her birthday. He plans a surprise to make it up to her but, in typical fashion, disaster ensues. Meanwhile, Bonnie reveals that she forgot to complete some paperwork and that Ben isn't Emma's sole custodian. Starring Jean-Luc Bilodeau(n)</desc>
-    <credits>
-      <actor>Jean-Luc Bilodeau</actor>
-    </credits>
-    <episode-num system="onscreen">S2 E15/16</episode-num>
-    <star-rating>
-      <value>6.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112090000 +0000" stop="20181112093000 +0000" channel="E4">
-    <title lang="en">Melissa &amp; Joey</title>
-    <sub-title lang="en">Mel and Joe's Anniversary</sub-title>
-    <desc lang="en">Mel's new boyfriend George throws a party so that she can meet his friends, while Joe confronts his ex-wife after she takes her date to a location that was significant in their relationship. Starring Melissa Joan Hart and Joey Lawrence(n)</desc>
-    <credits>
-      <actor>Melissa Joan Hart, Joey Lawrence</actor>
-    </credits>
-    <episode-num system="onscreen">S1 E22/30</episode-num>
-    <star-rating>
-      <value>4.7</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112093000 +0000" stop="20181112100000 +0000" channel="E4">
-    <title lang="en">Melissa &amp; Joey</title>
-    <sub-title lang="en">Going the Distance?</sub-title>
-    <desc lang="en">Mel contemplates the future of her relationship as George is offered an amazing new job abroad, while Ryder's relationship is also becoming more serious as he meets Holly's parents. Starring Melissa Joan Hart and Joey Lawrence(n)</desc>
-    <credits>
-      <actor>Melissa Joan Hart, Joey Lawrence</actor>
-    </credits>
-    <episode-num system="onscreen">S1 E23/30</episode-num>
-    <star-rating>
-      <value>4.7</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112100000 +0000" stop="20181112103000 +0000" channel="E4">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Staircase Implementation</sub-title>
-    <desc lang="en">The comedy flashes back to reveal how Sheldon saved the lives of his pals, and looks at the origins of his friendship with Leonard seven years previously, as well as explaining the housemates' agreement. Johnny Galecki and Jim Parsons star(n)</desc>
-    <credits>
-      <actor>Johnny Galecki, Jim Parsons</actor>
-    </credits>
-    <episode-num system="onscreen">S3 E22/23</episode-num>
-    <star-rating>
-      <value>7.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112103000 +0000" stop="20181112110000 +0000" channel="E4">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Lunar Excitation</sub-title>
-    <desc lang="en">Raj and Howard register Sheldon with an online dating site hoping to find his perfect female equivalent. Meanwhile, a drunk Penny seduces Leonard, but regrets it the next day. Comedy, starring Johnny Galecki, Jim Parsons and Kaley Cuoco. Mayim Bialik (Blossom) makes her first appearance on the show(n)</desc>
-    <episode-num system="onscreen">S3 E23/23</episode-num>
-    <star-rating>
-      <value>7.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112110000 +0000" stop="20181112113000 +0000" channel="E4">
-    <title lang="en">The Goldbergs</title>
-    <sub-title lang="en">The Facts of Bleeping Life</sub-title>
-    <desc lang="en">Barry and Adam form a garage rock band and ask Laineyn and Erica to get involved, eventually leading to unexpected consequences. Meanwhile, Charles and Diana's royal wedding has Bev wanting to renew her wedding vows with Murray. Comedy, starring Wendi McLendon-Covey and Jeff Garlin(n)</desc>
-    <credits>
-      <actor>Wendi McLendon-Covey, Jeff Garlin</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S2 E3/24</episode-num>
-    <star-rating>
-      <value>8.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112113000 +0000" stop="20181112120000 +0000" channel="E4">
-    <title lang="en">The Goldbergs</title>
-    <sub-title lang="en">Shall We Play a Game?</sub-title>
-    <desc lang="en">Adam accidentally gets Barry kicked out of his cool group of friends, so he comes up with a plan to get his brother back in favour by convincing them he has the hacking skills to access the school's computer system to change their grades. Comedy, starring Sean Giambrone(n)</desc>
-    <credits>
-      <actor>Sean Giambrone</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S2 E4/24</episode-num>
-    <star-rating>
-      <value>8.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112120000 +0000" stop="20181112123000 +0000" channel="E4">
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <sub-title lang="en">Two Turkeys</sub-title>
-    <desc lang="en">Peralta and Santiago try to get their parents to bond over Thanksgiving dinner, but their first holiday together as a family doesn't go well. Meanwhile, at the precinct, Captain Holt and Kevin's special Thanksgiving pie is stolen from Holt's office, so he hunts through the ranks for a possible culprit. Cop comedy, starring Andy Samberg and Melissa Fumero, with guest appearances from Jimmy Smits and Katey Sagal(n)</desc>
-    <credits>
-      <actor>Andy Samberg, Melissa Fumero, Jimmy Smits, Katey Sagal</actor>
-    </credits>
-    <category lang="en">comedy</category>
-    <episode-num system="onscreen">S5 E7/22</episode-num>
-    <star-rating>
-      <value>6.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112123000 +0000" stop="20181112130000 +0000" channel="E4">
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <sub-title lang="en">Return to Skyfire</sub-title>
-    <desc lang="en">DC Parlov returns to the precinct to report his latest manuscript has been stolen, so Terry, Jake and Rosa go undercover at a fantasy convention to catch the culprit(n)</desc>
-    <episode-num system="onscreen">S5 E8/22</episode-num>
-    <star-rating>
-      <value>6.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112130000 +0000" stop="20181112133000 +0000" channel="E4">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Anything Can Happen Recurrence</sub-title>
-    <desc lang="en">Penny and Leonard try to distract Sheldon from his career woes by reinstating Anything Can Happen Thursday, but it causes friction among the gang when Amy and Bernadette are caught lying. Meanwhile, Raj seeks Howard's help in preparing for a date with Emily. Comedy, starring Johnny Galecki, Jim Parsons and Kaley Cuoco(n)</desc>
-    <credits>
-      <actor>Johnny Galecki, Jim Parsons, Kaley Cuoco</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S7 E21/24</episode-num>
-    <star-rating>
-      <value>7.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112133000 +0000" stop="20181112140000 +0000" channel="E4">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Proton Transmogrification</sub-title>
-    <desc lang="en">The gang's preparations for Star Wars Day are interrupted by the news that Professor Proton has died. Leonard and Penny attend the funeral, where they talk about their rejected marriage proposals, but Sheldon has difficulty dealing with the death of his childhood hero - until a surprise visitor helps him cope with his grief. Comedy, starring Johnny Galecki, Jim Parsons and Kaley Cuoco, with a guest appearance by Bob Newhart(n)</desc>
-    <credits>
-      <actor>Johnny Galecki, Jim Parsons, Kaley Cuoco, a guest appearance by Bob Newhart</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S7 E22/24</episode-num>
-    <star-rating>
-      <value>7.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112140000 +0000" stop="20181112143000 +0000" channel="E4">
-    <title lang="en">Melissa &amp; Joey</title>
-    <sub-title lang="en">If You Can't Stand the Heat</sub-title>
-    <desc lang="en">Mel is charmed by the man who designs her new kitchen cabinets, but Joe fails to see eye-to-eye with him - leading to a big argument. Meanwhile, Lennox reluctantly attends one of her school's student committees, before an encounter with the organisation's presidents bolsters her enthusiasm. Family comedy, starring Melissa Joan Hart and Joey Lawrence(n)</desc>
-    <credits>
-      <actor>Melissa Joan Hart, Joey Lawrence</actor>
-    </credits>
-    <category lang="en">comedy</category>
-    <episode-num system="onscreen">S2 E2/15</episode-num>
-    <star-rating>
-      <value>4.7</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112143000 +0000" stop="20181112150000 +0000" channel="E4">
-    <title lang="en">Melissa &amp; Joey</title>
-    <sub-title lang="en">Good to Go</sub-title>
-    <desc lang="en">Mel and Joe are shocked to discover that Lennox's boyfriend Aidan spent the night in her bedroom, but Joe is even more taken aback at Mel's easy-going reaction to the situation. Meanwhile, Ryder's girlfriend Holly declares that it is time for him to start shaving(n)</desc>
-    <episode-num system="onscreen">S2 E3/15</episode-num>
-    <star-rating>
-      <value>4.7</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112150000 +0000" stop="20181112153000 +0000" channel="E4">
-    <title lang="en">Baby Daddy</title>
-    <sub-title lang="en">A Knight to Remember</sub-title>
-    <desc lang="en">Tucker acts like a lawyer in front of his father because he has forgotten to tell him he has dropped out of law school and works in TV. Meanwhile, Riley has a crush on a British guy, but Bonnie mistakenly thinks she has fallen for Danny. Comedy, starring Jean-Luc Bilodeau(n)</desc>
-    <credits>
-      <actor>Jean-Luc Bilodeau</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S3 E8/21</episode-num>
-    <star-rating>
-      <value>6.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112153000 +0000" stop="20181112160000 +0000" channel="E4">
-    <title lang="en">Baby Daddy</title>
-    <sub-title lang="en">Go Brit or Go Home</sub-title>
-    <desc lang="en">Ben's attempts to flirt with a student who goes to Riley's new British boyfriend's college go awry, causing Philip to potentially face losing both his job and his visa. Meanwhile, Tucker puts on a fake English accent in order to attract women(n)</desc>
-    <episode-num system="onscreen">S3 E9/21</episode-num>
-    <star-rating>
-      <value>6.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112160000 +0000" stop="20181112163000 +0000" channel="E4">
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <sub-title lang="en">DFW</sub-title>
-    <desc lang="en">Peralta invites his newly discovered half-sister Kate (New Girl star Nasim Pedrad) to come and stay with him in New York, but she turns out to ne a bit of a nightmare(n)</desc>
-    <episode-num system="onscreen">S5 E17/22</episode-num>
-    <star-rating>
-      <value>6.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112163000 +0000" stop="20181112170000 +0000" channel="E4">
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <sub-title lang="en">Gray Star Mutual</sub-title>
-    <desc lang="en">Unstable former undercover cop Pimento shows up as the insurance investigator when Charles's food truck is destroyed by fire. Comedy, starring Joe Lo Truglio and Jason Mantzoukas(n)</desc>
-    <credits>
-      <actor>Joe Lo Truglio, Jason Mantzoukas</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S5 E18/22</episode-num>
-    <star-rating>
-      <value>6.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112170000 +0000" stop="20181112173000 +0000" channel="E4">
-    <title lang="en">The Goldbergs</title>
-    <sub-title lang="en">Van People</sub-title>
-    <desc lang="en">Erica and Barry buy a shabby second-hand van to get back at Murray, while Adam objects when he is voted `nicest guy' in the school yearbook and ends up being suspended(n)</desc>
-    <episode-num system="onscreen">S2 E13/24</episode-num>
-    <star-rating>
-      <value>8.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112173000 +0000" stop="20181112180000 +0000" channel="E4">
-    <title lang="en">The Goldbergs</title>
-    <sub-title lang="en">Barry Goldberg's Day Off</sub-title>
-    <desc lang="en">Inspired by the film Ferris Bueller's Day Off, Barry pretends to be ill so that he can avoid school and create an epic day of his own. However, his plans go awry when Adam has exactly the same idea. Charlie Sheen guest stars(n)</desc>
-    <credits>
-      <actor>Charlie Sheen</actor>
-    </credits>
-    <episode-num system="onscreen">S2 E14/24</episode-num>
-    <star-rating>
-      <value>8.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112180000 +0000" stop="20181112183000 +0000" channel="E4">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Misinterpretation Agitation</sub-title>
-    <desc lang="en">Penny is left in a difficult professional situation when a doctor (guest star Billy Bob Thornton) turns up at her door following her flirtatious sales technique, so the guys try to help her out. Meanwhile, Amy and Bernadette have a dispute over whether female scientists should flaunt their sexuality to try to get ahead at work. Comedy, starring Johnny Galecki, Jim Parsons and Kaley Cuoco(n)</desc>
-    <credits>
-      <actor>Johnny Galecki, Jim Parsons, Kaley Cuoco</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S8 E7/24</episode-num>
-    <star-rating>
-      <value>7.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112183000 +0000" stop="20181112190000 +0000" channel="E4">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Prom Equivalency</sub-title>
-    <desc lang="en">The gang re-creates a prom night on the roof of the apartment building when the girls decide they would like to re-enact their evenings with their current partners. However, Sheldon feels under pressure to take part in all the romantic traditions, and Howard worries about who Stuart will bring as his date. Comedy, starring Johnny Galecki, Jim Parsons and Kaley Cuoco(n)</desc>
-    <credits>
-      <actor>Johnny Galecki, Jim Parsons, Kaley Cuoco</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S8 E8/24</episode-num>
-    <star-rating>
-      <value>7.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112190000 +0000" stop="20181112193000 +0000" channel="E4">
-    <title lang="en">Hollyoaks</title>
-    <desc lang="en">Drama following the lives and loves of a group of teenagers and young adults in Chester(n)</desc>
-    <category lang="en">Drama</category>
-    <star-rating>
-      <value>4.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112193000 +0000" stop="20181112200000 +0000" channel="E4">
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <sub-title lang="en">The Big House - Part One</sub-title>
-    <desc lang="en">Part one of two. Peralta and Diaz adjust to life behind bars, but while Jake is forced to join a prison gang led by notorious inmate Romero, Rosa puts Captain Holt and Sgt Jeffords to the test by making outrageous lists of chores for her(n)</desc>
-    <episode-num system="onscreen">S5 E1/22</episode-num>
-    <star-rating>
-      <value>6.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112200000 +0000" stop="20181112203000 +0000" channel="E4">
-    <title lang="en">Young Sheldon</title>
-    <sub-title lang="en">A High-Pitched Buzz and Training Wheels</sub-title>
-    <desc lang="en">New series. Sheldon dismantles the refrigerator to stop it making an annoying humming noise and is then forced to get a paper round to pay for the repairs to the damaged appliance. Comedy spin-off prequel to The Big Bang Theory, starring Iain Armitage(n)</desc>
-    <credits>
-      <actor>Iain Armitage</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S2 E1/22</episode-num>
-    <star-rating>
-      <value>8</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112203000 +0000" stop="20181112210000 +0000" channel="E4">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Tam Turbulence</sub-title>
-    <desc lang="en">The gang are surprised to learn Sheldon has a best friend he has never mentioned before - and he is due to pay a visit. Bernadette and Penny get to know Raj's fiancee better(n)</desc>
-    <episode-num system="onscreen">S12 E4/24</episode-num>
-    <star-rating>
-      <value>7.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112210000 +0000" stop="20181112220000 +0000" channel="E4">
-    <title lang="en">Made in Chelsea</title>
-    <desc lang="en">The girls are at the end of their tethers living with Miles, while Liv extends an olive branch to Ryan in the form of an offer to take engagement photos for him and Louise(n)</desc>
-    <episode-num system="onscreen">S16 E6/12</episode-num>
-    <star-rating>
-      <value>5.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112220000 +0000" stop="20181112230500 +0000" channel="E4">
-    <title lang="en">Club Rep Wars</title>
-    <desc lang="en">BJ has a big event planned featuring a live performance from music star Sigala, so he ropes in two recruits to help sell tickets and work in the VIP section on the night(n)</desc>
-    <episode-num system="onscreen">S1</episode-num>
-    <star-rating>
-      <value>7.8</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112230500 +0000" stop="20181112233500 +0000" channel="E4">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Deception Verification</sub-title>
-    <desc lang="en">Leonard returns from his research expedition in the North Sea and undergoes an adjustment period with Sheldon. Howard experiences an unusual emotional reaction as a result of his relationship with his mother. Johnny Galecki, Jim Parsons and Simon Helberg star(n)</desc>
-    <credits>
-      <actor>Johnny Galecki, Jim Parsons, Simon Helberg</actor>
-    </credits>
-    <episode-num system="onscreen">S7 E2/24</episode-num>
-    <star-rating>
-      <value>7.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20181112233500 +0000" stop="20181113000500 +0000" channel="E4">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Scavenger Vortex</sub-title>
-    <desc lang="en">The friends compete in a scavenger hunt designed by Raj to test their scientific knowledge and life skills, but the game brings out the best and worst in everyone. As the hunt progresses, Howard and Amy begin to bond over their shared musical tastes, while Penny and Sheldon work together as a team and Bernadette becomes fiercely competitive(n)</desc>
-    <episode-num system="onscreen">S7 E3/24</episode-num>
-    <star-rating>
-      <value>7.5</value>
-    </star-rating>
-  </programme>
-</tv>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<site site="tv.so-net.ne.jp" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V1.57 -- Jan van Straaten">
+<channels>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＮＨＫ総合・東京" site_id="23##101024" update="i">ＮＨＫ総合・東京</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＮＨＫＥテレ１・東京" site_id="23##101032" update="i">ＮＨＫＥテレ１・東京</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="日テレ" site_id="23##101040" update="i">日テレ</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="テレビ朝日" site_id="23##101064" update="i">テレビ朝日</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＴＢＳ" site_id="23##101048" update="i">ＴＢＳ</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="テレビ東京" site_id="23##101072" update="i">テレビ東京</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="フジテレビ" site_id="23##101056" update="i">フジテレビ</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＴＯＫＹＯ　ＭＸ１" site_id="23##123608" update="i">ＴＯＫＹＯ　ＭＸ１</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="放送大学１" site_id="23##101088" update="i">放送大学１</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＮＨＫ ＢＳ１" site_id="bs1##200101" update="i">ＮＨＫ ＢＳ１</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＮＨＫ ＢＳプレミアム" site_id="bs1##200103" update="i">ＮＨＫ ＢＳプレミアム</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＢＳ日テレ" site_id="bs1##200141" update="i">ＢＳ日テレ</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＢＳ朝日" site_id="bs1##200151" update="i">ＢＳ朝日</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＢＳ-ＴＢＳ" site_id="bs1##200161" update="i">ＢＳ-ＴＢＳ</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＢＳジャパン" site_id="bs1##200171" update="i">ＢＳジャパン</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＢＳフジ" site_id="bs1##200181" update="i">ＢＳフジ</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＷＯＷＯＷプライム" site_id="bs2##200191" update="i">ＷＯＷＯＷプライム</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＷＯＷＯＷライブ" site_id="bs2##200192" update="i">ＷＯＷＯＷライブ</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ＷＯＷＯＷシネマ" site_id="bs2##200193" update="i">ＷＯＷＯＷシネマ</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="スター・チャンネル1" site_id="bs2##200200" update="i">スター・チャンネル1</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="スター・チャンネル2" site_id="bs2##200201" update="i">スター・チャンネル2</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="スター・チャンネル3" site_id="bs2##200202" update="i">スター・チャンネル3</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="BS11イレブン" site_id="bs2##200211" update="i">BS11イレブン</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="BS12 トゥエルビ" site_id="bs2##200222" update="i">BS12 トゥエルビ</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="放送大学BS1" site_id="bs2##200231" update="i">放送大学BS1</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="グリーンチャンネル" site_id="bs3##200234" update="i">グリーンチャンネル</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="BSアニマックス" site_id="bs3##200236" update="i">BSアニマックス</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="FOXスポーツエンタ" site_id="bs3##200238" update="i">FOXスポーツエンタ</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="BSスカパー!" site_id="bs3##200241" update="i">BSスカパー!</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="J SPORTS 1" site_id="bs3##200242" update="i">J SPORTS 1</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="J SPORTS 2" site_id="bs3##200243" update="i">J SPORTS 2</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="J SPORTS 3" site_id="bs3##200244" update="i">J SPORTS 3</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="J SPORTS 4" site_id="bs3##200245" update="i">J SPORTS 4</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="BS釣りビジョン" site_id="bs4##200251" update="i">BS釣りビジョン</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="イマジカBS" site_id="bs4##200252" update="i">イマジカBS</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="BS日本映画専門チャンネル" site_id="bs4##200255" update="i">BS日本映画専門チャンネル</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ディズニー・チャンネル" site_id="bs4##200256" update="i">ディズニー・チャンネル</channel>
+<channel site="tv.so-net.ne.jp" xmltv_id="ディーライフ" site_id="bs4##200258" update="i">ディーライフ</channel>
+</channels>
+</site>
