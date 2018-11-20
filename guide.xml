@@ -1,43 +1,7 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channels>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＮＨＫ総合・東京" site_id="23##101024" update="i">ＮＨＫ総合・東京</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＮＨＫＥテレ１・東京" site_id="23##101032" update="i">ＮＨＫＥテレ１・東京</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="日テレ" site_id="23##101040" update="i">日テレ</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="テレビ朝日" site_id="23##101064" update="i">テレビ朝日</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＴＢＳ" site_id="23##101048" update="i">ＴＢＳ</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="テレビ東京" site_id="23##101072" update="i">テレビ東京</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="フジテレビ" site_id="23##101056" update="i">フジテレビ</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＴＯＫＹＯ　ＭＸ１" site_id="23##123608" update="i">ＴＯＫＹＯ　ＭＸ１</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="放送大学１" site_id="23##101088" update="i">放送大学１</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＮＨＫ ＢＳ１" site_id="bs1##200101" update="i">ＮＨＫ ＢＳ１</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＮＨＫ ＢＳプレミアム" site_id="bs1##200103" update="i">ＮＨＫ ＢＳプレミアム</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＢＳ日テレ" site_id="bs1##200141" update="i">ＢＳ日テレ</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＢＳ朝日" site_id="bs1##200151" update="i">ＢＳ朝日</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＢＳ-ＴＢＳ" site_id="bs1##200161" update="i">ＢＳ-ＴＢＳ</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＢＳジャパン" site_id="bs1##200171" update="i">ＢＳジャパン</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＢＳフジ" site_id="bs1##200181" update="i">ＢＳフジ</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＷＯＷＯＷプライム" site_id="bs2##200191" update="i">ＷＯＷＯＷプライム</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＷＯＷＯＷライブ" site_id="bs2##200192" update="i">ＷＯＷＯＷライブ</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ＷＯＷＯＷシネマ" site_id="bs2##200193" update="i">ＷＯＷＯＷシネマ</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="スター・チャンネル1" site_id="bs2##200200" update="i">スター・チャンネル1</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="スター・チャンネル2" site_id="bs2##200201" update="i">スター・チャンネル2</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="スター・チャンネル3" site_id="bs2##200202" update="i">スター・チャンネル3</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="BS11イレブン" site_id="bs2##200211" update="i">BS11イレブン</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="BS12 トゥエルビ" site_id="bs2##200222" update="i">BS12 トゥエルビ</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="放送大学BS1" site_id="bs2##200231" update="i">放送大学BS1</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="グリーンチャンネル" site_id="bs3##200234" update="i">グリーンチャンネル</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="BSアニマックス" site_id="bs3##200236" update="i">BSアニマックス</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="FOXスポーツエンタ" site_id="bs3##200238" update="i">FOXスポーツエンタ</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="BSスカパー!" site_id="bs3##200241" update="i">BSスカパー!</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="J SPORTS 1" site_id="bs3##200242" update="i">J SPORTS 1</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="J SPORTS 2" site_id="bs3##200243" update="i">J SPORTS 2</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="J SPORTS 3" site_id="bs3##200244" update="i">J SPORTS 3</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="J SPORTS 4" site_id="bs3##200245" update="i">J SPORTS 4</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="BS釣りビジョン" site_id="bs4##200251" update="i">BS釣りビジョン</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="イマジカBS" site_id="bs4##200252" update="i">イマジカBS</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="BS日本映画専門チャンネル" site_id="bs4##200255" update="i">BS日本映画専門チャンネル</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ディズニー・チャンネル" site_id="bs4##200256" update="i">ディズニー・チャンネル</channel>
-<channel site="tv.so-net.ne.jp" xmltv_id="ディーライフ" site_id="bs4##200258" update="i">ディーライフ</channel>
-</channels>
+  <channel id="テレビ朝日">
+    <display-name lang="ja">テレビ朝日</display-name>
+    <url>http://www.tv.so-net.ne.jp</url>
+  </channel>
 </tv>
