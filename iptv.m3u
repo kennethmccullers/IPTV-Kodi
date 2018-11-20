@@ -2,12 +2,12 @@
 #EXTINF:1, NHK World
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
-#EXTINF:1, QVC（キューヴィーシー）
+#EXTINF:3, QVC（キューヴィーシー）
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png", NTV News24
+#EXTINF:2 tvg-logo="https://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png", NTV News24
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 
-#EXTINF:1 tvg-id="テレビ朝日", TV Asahi
+#EXTINF:4 tvg-id="テレビ朝日", TV Asahi
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL29rLnJ1L3ZpZGVvLzExNzU3MTkzMjEyMDQgYmVzdA==/
 
