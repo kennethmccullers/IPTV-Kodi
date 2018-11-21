@@ -2,6 +2,6 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="テレビ朝日">
     <display-name lang="ja">テレビ朝日</display-name>
-    <url>http://www.tv.so-net.ne.jp</url>
+    <url>http://tv.so-net.ne.jp</url>
   </channel>
 </tv>
