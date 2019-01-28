@@ -7,5 +7,7 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
 #EXTINF:-1 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cgn_tv.jpg",CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+#EXTINF:-1 tv-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_us.jpg",SBS Nickelodeon
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL2ZoczkyNTIuc2stODEubXlza2Nkbi5jby5rci9zYnNuaWNrcGMvX2RlZmluc3RfL3Nic25pY2sxLnN0cmVhbS9jaHVua2xpc3RfdzE3MDgyMTYxMzYubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKbGVIQWlPakUxTkRnMk9UTXdNakVzSW5CaGRHZ2lPaUl2YzJKemJtbGphM0JqTDE5a1pXWnBibk4wWHk5elluTnVhV05yTVM1emRISmxZVzBpTENKa2RYSmhkR2x2YmlJNklpMHhJbjAuSTl6NHppWlVKNEtJOEpyY1R6VlV5MExuY1lNTS1ydjFLbkZYMUNyTkJzbyBiZXN0/
 
 
