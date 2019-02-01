@@ -1,7 +1,436 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="テレビ朝日">
-    <display-name lang="ja">テレビ朝日</display-name>
-    <url>http://tv.so-net.ne.jp</url>
+  <channel id="nickelodeon">
+    <display-name lang="ko">nickelodeon</display-name>
+    <url>http://www.w3.sbs.co.kr</url>
   </channel>
+  <programme start="20190202000000 +0900" stop="20190202010000 +0900" channel="nickelodeon">
+    <title lang="ko">베이블레이드 버스트 갓 35-36</title>
+  </programme>
+  <programme start="20190202010000 +0900" stop="20190202020000 +0900" channel="nickelodeon">
+    <title lang="ko">공룡킹 어드벤처 35-36</title>
+  </programme>
+  <programme start="20190202020000 +0900" stop="20190202030000 +0900" channel="nickelodeon">
+    <title lang="ko">캡슐 보이 21-22</title>
+  </programme>
+  <programme start="20190202030000 +0900" stop="20190202040000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 10 11-14</title>
+  </programme>
+  <programme start="20190202040000 +0900" stop="20190202043000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 11 5-8</title>
+  </programme>
+  <programme start="20190202043000 +0900" stop="20190202051500 +0900" channel="nickelodeon">
+    <title lang="ko">애슬론 또봇 3 3-4</title>
+  </programme>
+  <programme start="20190202051500 +0900" stop="20190202060000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 13 5-8</title>
+  </programme>
+  <programme start="20190202060000 +0900" stop="20190202070000 +0900" channel="nickelodeon">
+    <title lang="ko">엉뚱발랄 콩순이 스페셜 1-8</title>
+  </programme>
+  <programme start="20190202070000 +0900" stop="20190202080000 +0900" channel="nickelodeon">
+    <title lang="ko">앨빈과 슈퍼밴드 305-306</title>
+  </programme>
+  <programme start="20190202080000 +0900" stop="20190202090000 +0900" channel="nickelodeon">
+    <title lang="ko">공룡메카드 50-51</title>
+  </programme>
+  <programme start="20190202090000 +0900" stop="20190202093000 +0900" channel="nickelodeon">
+    <title lang="ko">립체인저 9-10</title>
+  </programme>
+  <programme start="20190202093000 +0900" stop="20190202103000 +0900" channel="nickelodeon">
+    <title lang="ko">꾹TV 시즌2 206,208</title>
+  </programme>
+  <programme start="20190202103000 +0900" stop="20190202113000 +0900" channel="nickelodeon">
+    <title lang="ko">에그박사 15,2</title>
+  </programme>
+  <programme start="20190202113000 +0900" stop="20190202130000 +0900" channel="nickelodeon">
+    <title lang="ko">네모바지 스폰지밥 240,238,232</title>
+  </programme>
+  <programme start="20190202130000 +0900" stop="20190202143000 +0900" channel="nickelodeon">
+    <title lang="ko">링컨의 집에서 살아남기 314,313,312</title>
+  </programme>
+  <programme start="20190202143000 +0900" stop="20190202150000 +0900" channel="nickelodeon">
+    <title lang="ko">또봇V 19-20</title>
+  </programme>
+  <programme start="20190202150000 +0900" stop="20190202160000 +0900" channel="nickelodeon">
+    <title lang="ko">베이블레이드 버스트 초제트 19-20</title>
+  </programme>
+  <programme start="20190202160000 +0900" stop="20190202170000 +0900" channel="nickelodeon">
+    <title lang="ko">요괴메카드 18-21</title>
+  </programme>
+  <programme start="20190202170000 +0900" stop="20190202180000 +0900" channel="nickelodeon">
+    <title lang="ko">헬로 카봇 쿵 23-26</title>
+  </programme>
+  <programme start="20190202180000 +0900" stop="20190202190000 +0900" channel="nickelodeon">
+    <title lang="ko">에그박사 15,12</title>
+  </programme>
+  <programme start="20190202190000 +0900" stop="20190202203000 +0900" channel="nickelodeon">
+    <title lang="ko">꾹TV 시즌2 208,207,205</title>
+  </programme>
+  <programme start="20190202203000 +0900" stop="20190202213000 +0900" channel="nickelodeon">
+    <title lang="ko">간니닌니 다이어리 시즌2 202,201</title>
+  </programme>
+  <programme start="20190202213000 +0900" stop="20190202230000 +0900" channel="nickelodeon">
+    <title lang="ko">네모바지 스폰지밥 62,170,108</title>
+  </programme>
+  <programme start="20190202230000 +0900" stop="20190203000000 +0900" channel="nickelodeon">
+    <title lang="ko">100% 파스칼 선생님 17-20</title>
+  </programme>
+  <programme start="20190203000000 +0900" stop="20190203010000 +0900" channel="nickelodeon">
+    <title lang="ko">베이블레이드 버스트 갓 35-36</title>
+  </programme>
+  <programme start="20190203010000 +0900" stop="20190203020000 +0900" channel="nickelodeon">
+    <title lang="ko">공룡킹 어드벤처 35-36</title>
+  </programme>
+  <programme start="20190203020000 +0900" stop="20190203030000 +0900" channel="nickelodeon">
+    <title lang="ko">캡슐 보이 21-22</title>
+  </programme>
+  <programme start="20190203030000 +0900" stop="20190203040000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 10 11-14</title>
+  </programme>
+  <programme start="20190203040000 +0900" stop="20190203043000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 11 5-8</title>
+  </programme>
+  <programme start="20190203043000 +0900" stop="20190203051500 +0900" channel="nickelodeon">
+    <title lang="ko">애슬론 또봇 3 3-4</title>
+  </programme>
+  <programme start="20190203051500 +0900" stop="20190203060000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 13 5-8</title>
+  </programme>
+  <programme start="20190203060000 +0900" stop="20190203070000 +0900" channel="nickelodeon">
+    <title lang="ko">엉뚱발랄 콩순이 스페셜 1-8</title>
+  </programme>
+  <programme start="20190203070000 +0900" stop="20190203080000 +0900" channel="nickelodeon">
+    <title lang="ko">앨빈과 슈퍼밴드 305-306</title>
+  </programme>
+  <programme start="20190203080000 +0900" stop="20190203090000 +0900" channel="nickelodeon">
+    <title lang="ko">공룡메카드 50-51</title>
+  </programme>
+  <programme start="20190203090000 +0900" stop="20190203093000 +0900" channel="nickelodeon">
+    <title lang="ko">립체인저 9-10</title>
+  </programme>
+  <programme start="20190203093000 +0900" stop="20190203103000 +0900" channel="nickelodeon">
+    <title lang="ko">꾹TV 시즌2 206,208</title>
+  </programme>
+  <programme start="20190203103000 +0900" stop="20190203113000 +0900" channel="nickelodeon">
+    <title lang="ko">에그박사 15,2</title>
+  </programme>
+  <programme start="20190203113000 +0900" stop="20190203130000 +0900" channel="nickelodeon">
+    <title lang="ko">네모바지 스폰지밥 240,238,232</title>
+  </programme>
+  <programme start="20190203130000 +0900" stop="20190203143000 +0900" channel="nickelodeon">
+    <title lang="ko">링컨의 집에서 살아남기 314,313,312</title>
+  </programme>
+  <programme start="20190203143000 +0900" stop="20190203150000 +0900" channel="nickelodeon">
+    <title lang="ko">또봇V 19-20</title>
+  </programme>
+  <programme start="20190203150000 +0900" stop="20190203160000 +0900" channel="nickelodeon">
+    <title lang="ko">베이블레이드 버스트 초제트 19-20</title>
+  </programme>
+  <programme start="20190203160000 +0900" stop="20190203170000 +0900" channel="nickelodeon">
+    <title lang="ko">요괴메카드 18-21</title>
+  </programme>
+  <programme start="20190203170000 +0900" stop="20190203180000 +0900" channel="nickelodeon">
+    <title lang="ko">헬로 카봇 쿵 23-26</title>
+  </programme>
+  <programme start="20190203180000 +0900" stop="20190203190000 +0900" channel="nickelodeon">
+    <title lang="ko">에그박사 15,12</title>
+  </programme>
+  <programme start="20190203190000 +0900" stop="20190203203000 +0900" channel="nickelodeon">
+    <title lang="ko">꾹TV 시즌2 208,207,205</title>
+  </programme>
+  <programme start="20190203203000 +0900" stop="20190203213000 +0900" channel="nickelodeon">
+    <title lang="ko">간니닌니 다이어리 시즌2 202,201</title>
+  </programme>
+  <programme start="20190203213000 +0900" stop="20190203230000 +0900" channel="nickelodeon">
+    <title lang="ko">네모바지 스폰지밥 62,170,108</title>
+  </programme>
+  <programme start="20190203230000 +0900" stop="20190204000000 +0900" channel="nickelodeon">
+    <title lang="ko">100% 파스칼 선생님 17-20</title>
+  </programme>
+  <programme start="20190204000000 +0900" stop="20190204010000 +0900" channel="nickelodeon">
+    <title lang="ko">베이블레이드 버스트 갓 35-36</title>
+  </programme>
+  <programme start="20190204010000 +0900" stop="20190204020000 +0900" channel="nickelodeon">
+    <title lang="ko">공룡킹 어드벤처 35-36</title>
+  </programme>
+  <programme start="20190204020000 +0900" stop="20190204030000 +0900" channel="nickelodeon">
+    <title lang="ko">캡슐 보이 21-22</title>
+  </programme>
+  <programme start="20190204030000 +0900" stop="20190204040000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 10 11-14</title>
+  </programme>
+  <programme start="20190204040000 +0900" stop="20190204043000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 11 5-8</title>
+  </programme>
+  <programme start="20190204043000 +0900" stop="20190204051500 +0900" channel="nickelodeon">
+    <title lang="ko">애슬론 또봇 3 3-4</title>
+  </programme>
+  <programme start="20190204051500 +0900" stop="20190204060000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 13 5-8</title>
+  </programme>
+  <programme start="20190204060000 +0900" stop="20190204070000 +0900" channel="nickelodeon">
+    <title lang="ko">엉뚱발랄 콩순이 스페셜 1-8</title>
+  </programme>
+  <programme start="20190204070000 +0900" stop="20190204080000 +0900" channel="nickelodeon">
+    <title lang="ko">앨빈과 슈퍼밴드 305-306</title>
+  </programme>
+  <programme start="20190204080000 +0900" stop="20190204090000 +0900" channel="nickelodeon">
+    <title lang="ko">공룡메카드 50-51</title>
+  </programme>
+  <programme start="20190204090000 +0900" stop="20190204093000 +0900" channel="nickelodeon">
+    <title lang="ko">립체인저 9-10</title>
+  </programme>
+  <programme start="20190204093000 +0900" stop="20190204103000 +0900" channel="nickelodeon">
+    <title lang="ko">꾹TV 시즌2 206,208</title>
+  </programme>
+  <programme start="20190204103000 +0900" stop="20190204113000 +0900" channel="nickelodeon">
+    <title lang="ko">에그박사 15,2</title>
+  </programme>
+  <programme start="20190204113000 +0900" stop="20190204130000 +0900" channel="nickelodeon">
+    <title lang="ko">네모바지 스폰지밥 240,238,232</title>
+  </programme>
+  <programme start="20190204130000 +0900" stop="20190204143000 +0900" channel="nickelodeon">
+    <title lang="ko">링컨의 집에서 살아남기 314,313,312</title>
+  </programme>
+  <programme start="20190204143000 +0900" stop="20190204150000 +0900" channel="nickelodeon">
+    <title lang="ko">또봇V 19-20</title>
+  </programme>
+  <programme start="20190204150000 +0900" stop="20190204160000 +0900" channel="nickelodeon">
+    <title lang="ko">베이블레이드 버스트 초제트 19-20</title>
+  </programme>
+  <programme start="20190204160000 +0900" stop="20190204170000 +0900" channel="nickelodeon">
+    <title lang="ko">요괴메카드 18-21</title>
+  </programme>
+  <programme start="20190204170000 +0900" stop="20190204180000 +0900" channel="nickelodeon">
+    <title lang="ko">헬로 카봇 쿵 23-26</title>
+  </programme>
+  <programme start="20190204180000 +0900" stop="20190204190000 +0900" channel="nickelodeon">
+    <title lang="ko">에그박사 15,12</title>
+  </programme>
+  <programme start="20190204190000 +0900" stop="20190204203000 +0900" channel="nickelodeon">
+    <title lang="ko">꾹TV 시즌2 208,207,205</title>
+  </programme>
+  <programme start="20190204203000 +0900" stop="20190204213000 +0900" channel="nickelodeon">
+    <title lang="ko">간니닌니 다이어리 시즌2 202,201</title>
+  </programme>
+  <programme start="20190204213000 +0900" stop="20190204230000 +0900" channel="nickelodeon">
+    <title lang="ko">네모바지 스폰지밥 62,170,108</title>
+  </programme>
+  <programme start="20190204230000 +0900" stop="20190205000000 +0900" channel="nickelodeon">
+    <title lang="ko">100% 파스칼 선생님 17-20</title>
+  </programme>
+  <programme start="20190205000000 +0900" stop="20190205010000 +0900" channel="nickelodeon">
+    <title lang="ko">베이블레이드 버스트 갓 35-36</title>
+  </programme>
+  <programme start="20190205010000 +0900" stop="20190205020000 +0900" channel="nickelodeon">
+    <title lang="ko">공룡킹 어드벤처 35-36</title>
+  </programme>
+  <programme start="20190205020000 +0900" stop="20190205030000 +0900" channel="nickelodeon">
+    <title lang="ko">캡슐 보이 21-22</title>
+  </programme>
+  <programme start="20190205030000 +0900" stop="20190205040000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 10 11-14</title>
+  </programme>
+  <programme start="20190205040000 +0900" stop="20190205043000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 11 5-8</title>
+  </programme>
+  <programme start="20190205043000 +0900" stop="20190205051500 +0900" channel="nickelodeon">
+    <title lang="ko">애슬론 또봇 3 3-4</title>
+  </programme>
+  <programme start="20190205051500 +0900" stop="20190205060000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 13 5-8</title>
+  </programme>
+  <programme start="20190205060000 +0900" stop="20190205070000 +0900" channel="nickelodeon">
+    <title lang="ko">엉뚱발랄 콩순이 스페셜 1-8</title>
+  </programme>
+  <programme start="20190205070000 +0900" stop="20190205080000 +0900" channel="nickelodeon">
+    <title lang="ko">앨빈과 슈퍼밴드 305-306</title>
+  </programme>
+  <programme start="20190205080000 +0900" stop="20190205090000 +0900" channel="nickelodeon">
+    <title lang="ko">공룡메카드 50-51</title>
+  </programme>
+  <programme start="20190205090000 +0900" stop="20190205093000 +0900" channel="nickelodeon">
+    <title lang="ko">립체인저 9-10</title>
+  </programme>
+  <programme start="20190205093000 +0900" stop="20190205103000 +0900" channel="nickelodeon">
+    <title lang="ko">꾹TV 시즌2 206,208</title>
+  </programme>
+  <programme start="20190205103000 +0900" stop="20190205113000 +0900" channel="nickelodeon">
+    <title lang="ko">에그박사 15,2</title>
+  </programme>
+  <programme start="20190205113000 +0900" stop="20190205130000 +0900" channel="nickelodeon">
+    <title lang="ko">네모바지 스폰지밥 240,238,232</title>
+  </programme>
+  <programme start="20190205130000 +0900" stop="20190205143000 +0900" channel="nickelodeon">
+    <title lang="ko">링컨의 집에서 살아남기 314,313,312</title>
+  </programme>
+  <programme start="20190205143000 +0900" stop="20190205150000 +0900" channel="nickelodeon">
+    <title lang="ko">또봇V 19-20</title>
+  </programme>
+  <programme start="20190205150000 +0900" stop="20190205160000 +0900" channel="nickelodeon">
+    <title lang="ko">베이블레이드 버스트 초제트 19-20</title>
+  </programme>
+  <programme start="20190205160000 +0900" stop="20190205170000 +0900" channel="nickelodeon">
+    <title lang="ko">요괴메카드 18-21</title>
+  </programme>
+  <programme start="20190205170000 +0900" stop="20190205180000 +0900" channel="nickelodeon">
+    <title lang="ko">헬로 카봇 쿵 23-26</title>
+  </programme>
+  <programme start="20190205180000 +0900" stop="20190205190000 +0900" channel="nickelodeon">
+    <title lang="ko">에그박사 15,12</title>
+  </programme>
+  <programme start="20190205190000 +0900" stop="20190205203000 +0900" channel="nickelodeon">
+    <title lang="ko">꾹TV 시즌2 208,207,205</title>
+  </programme>
+  <programme start="20190205203000 +0900" stop="20190205213000 +0900" channel="nickelodeon">
+    <title lang="ko">간니닌니 다이어리 시즌2 202,201</title>
+  </programme>
+  <programme start="20190205213000 +0900" stop="20190205230000 +0900" channel="nickelodeon">
+    <title lang="ko">네모바지 스폰지밥 62,170,108</title>
+  </programme>
+  <programme start="20190205230000 +0900" stop="20190206000000 +0900" channel="nickelodeon">
+    <title lang="ko">100% 파스칼 선생님 17-20</title>
+  </programme>
+  <programme start="20190206000000 +0900" stop="20190206010000 +0900" channel="nickelodeon">
+    <title lang="ko">베이블레이드 버스트 갓 35-36</title>
+  </programme>
+  <programme start="20190206010000 +0900" stop="20190206020000 +0900" channel="nickelodeon">
+    <title lang="ko">공룡킹 어드벤처 35-36</title>
+  </programme>
+  <programme start="20190206020000 +0900" stop="20190206030000 +0900" channel="nickelodeon">
+    <title lang="ko">캡슐 보이 21-22</title>
+  </programme>
+  <programme start="20190206030000 +0900" stop="20190206040000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 10 11-14</title>
+  </programme>
+  <programme start="20190206040000 +0900" stop="20190206043000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 11 5-8</title>
+  </programme>
+  <programme start="20190206043000 +0900" stop="20190206051500 +0900" channel="nickelodeon">
+    <title lang="ko">애슬론 또봇 3 3-4</title>
+  </programme>
+  <programme start="20190206051500 +0900" stop="20190206060000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 13 5-8</title>
+  </programme>
+  <programme start="20190206060000 +0900" stop="20190206070000 +0900" channel="nickelodeon">
+    <title lang="ko">엉뚱발랄 콩순이 스페셜 1-8</title>
+  </programme>
+  <programme start="20190206070000 +0900" stop="20190206080000 +0900" channel="nickelodeon">
+    <title lang="ko">앨빈과 슈퍼밴드 305-306</title>
+  </programme>
+  <programme start="20190206080000 +0900" stop="20190206090000 +0900" channel="nickelodeon">
+    <title lang="ko">공룡메카드 50-51</title>
+  </programme>
+  <programme start="20190206090000 +0900" stop="20190206093000 +0900" channel="nickelodeon">
+    <title lang="ko">립체인저 9-10</title>
+  </programme>
+  <programme start="20190206093000 +0900" stop="20190206103000 +0900" channel="nickelodeon">
+    <title lang="ko">꾹TV 시즌2 206,208</title>
+  </programme>
+  <programme start="20190206103000 +0900" stop="20190206113000 +0900" channel="nickelodeon">
+    <title lang="ko">에그박사 15,2</title>
+  </programme>
+  <programme start="20190206113000 +0900" stop="20190206130000 +0900" channel="nickelodeon">
+    <title lang="ko">네모바지 스폰지밥 240,238,232</title>
+  </programme>
+  <programme start="20190206130000 +0900" stop="20190206143000 +0900" channel="nickelodeon">
+    <title lang="ko">링컨의 집에서 살아남기 314,313,312</title>
+  </programme>
+  <programme start="20190206143000 +0900" stop="20190206150000 +0900" channel="nickelodeon">
+    <title lang="ko">또봇V 19-20</title>
+  </programme>
+  <programme start="20190206150000 +0900" stop="20190206160000 +0900" channel="nickelodeon">
+    <title lang="ko">베이블레이드 버스트 초제트 19-20</title>
+  </programme>
+  <programme start="20190206160000 +0900" stop="20190206170000 +0900" channel="nickelodeon">
+    <title lang="ko">요괴메카드 18-21</title>
+  </programme>
+  <programme start="20190206170000 +0900" stop="20190206180000 +0900" channel="nickelodeon">
+    <title lang="ko">헬로 카봇 쿵 23-26</title>
+  </programme>
+  <programme start="20190206180000 +0900" stop="20190206190000 +0900" channel="nickelodeon">
+    <title lang="ko">에그박사 15,12</title>
+  </programme>
+  <programme start="20190206190000 +0900" stop="20190206203000 +0900" channel="nickelodeon">
+    <title lang="ko">꾹TV 시즌2 208,207,205</title>
+  </programme>
+  <programme start="20190206203000 +0900" stop="20190206213000 +0900" channel="nickelodeon">
+    <title lang="ko">간니닌니 다이어리 시즌2 202,201</title>
+  </programme>
+  <programme start="20190206213000 +0900" stop="20190206230000 +0900" channel="nickelodeon">
+    <title lang="ko">네모바지 스폰지밥 62,170,108</title>
+  </programme>
+  <programme start="20190206230000 +0900" stop="20190207000000 +0900" channel="nickelodeon">
+    <title lang="ko">100% 파스칼 선생님 17-20</title>
+  </programme>
+  <programme start="20190207000000 +0900" stop="20190207010000 +0900" channel="nickelodeon">
+    <title lang="ko">베이블레이드 버스트 갓 35-36</title>
+  </programme>
+  <programme start="20190207010000 +0900" stop="20190207020000 +0900" channel="nickelodeon">
+    <title lang="ko">공룡킹 어드벤처 35-36</title>
+  </programme>
+  <programme start="20190207020000 +0900" stop="20190207030000 +0900" channel="nickelodeon">
+    <title lang="ko">캡슐 보이 21-22</title>
+  </programme>
+  <programme start="20190207030000 +0900" stop="20190207040000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 10 11-14</title>
+  </programme>
+  <programme start="20190207040000 +0900" stop="20190207043000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 11 5-8</title>
+  </programme>
+  <programme start="20190207043000 +0900" stop="20190207051500 +0900" channel="nickelodeon">
+    <title lang="ko">애슬론 또봇 3 3-4</title>
+  </programme>
+  <programme start="20190207051500 +0900" stop="20190207060000 +0900" channel="nickelodeon">
+    <title lang="ko">시크릿 쥬쥬 13 5-8</title>
+  </programme>
+  <programme start="20190207060000 +0900" stop="20190207070000 +0900" channel="nickelodeon">
+    <title lang="ko">엉뚱발랄 콩순이 스페셜 1-8</title>
+  </programme>
+  <programme start="20190207070000 +0900" stop="20190207080000 +0900" channel="nickelodeon">
+    <title lang="ko">앨빈과 슈퍼밴드 305-306</title>
+  </programme>
+  <programme start="20190207080000 +0900" stop="20190207090000 +0900" channel="nickelodeon">
+    <title lang="ko">공룡메카드 50-51</title>
+  </programme>
+  <programme start="20190207090000 +0900" stop="20190207093000 +0900" channel="nickelodeon">
+    <title lang="ko">립체인저 9-10</title>
+  </programme>
+  <programme start="20190207093000 +0900" stop="20190207103000 +0900" channel="nickelodeon">
+    <title lang="ko">꾹TV 시즌2 206,208</title>
+  </programme>
+  <programme start="20190207103000 +0900" stop="20190207113000 +0900" channel="nickelodeon">
+    <title lang="ko">에그박사 15,2</title>
+  </programme>
+  <programme start="20190207113000 +0900" stop="20190207130000 +0900" channel="nickelodeon">
+    <title lang="ko">네모바지 스폰지밥 240,238,232</title>
+  </programme>
+  <programme start="20190207130000 +0900" stop="20190207143000 +0900" channel="nickelodeon">
+    <title lang="ko">링컨의 집에서 살아남기 314,313,312</title>
+  </programme>
+  <programme start="20190207143000 +0900" stop="20190207150000 +0900" channel="nickelodeon">
+    <title lang="ko">또봇V 19-20</title>
+  </programme>
+  <programme start="20190207150000 +0900" stop="20190207160000 +0900" channel="nickelodeon">
+    <title lang="ko">베이블레이드 버스트 초제트 19-20</title>
+  </programme>
+  <programme start="20190207160000 +0900" stop="20190207170000 +0900" channel="nickelodeon">
+    <title lang="ko">요괴메카드 18-21</title>
+  </programme>
+  <programme start="20190207170000 +0900" stop="20190207180000 +0900" channel="nickelodeon">
+    <title lang="ko">헬로 카봇 쿵 23-26</title>
+  </programme>
+  <programme start="20190207180000 +0900" stop="20190207190000 +0900" channel="nickelodeon">
+    <title lang="ko">에그박사 15,12</title>
+  </programme>
+  <programme start="20190207190000 +0900" stop="20190207203000 +0900" channel="nickelodeon">
+    <title lang="ko">꾹TV 시즌2 208,207,205</title>
+  </programme>
+  <programme start="20190207203000 +0900" stop="20190207213000 +0900" channel="nickelodeon">
+    <title lang="ko">간니닌니 다이어리 시즌2 202,201</title>
+  </programme>
+  <programme start="20190207213000 +0900" stop="20190207230000 +0900" channel="nickelodeon">
+    <title lang="ko">네모바지 스폰지밥 62,170,108</title>
+  </programme>
 </tv>
